@@ -12,4 +12,4 @@ Projede kullandığımız ana veri dosyaları şunlardır:
 
 Modellerin eğitim aşaması oldukça uzun sürdüğü için, notebook dosyasını çıktıları temizlenmiş (çalıştırılmamış/çıktısız) bir şekilde yüklemek durumunda kaldık. 
 
-Kodların tamamı eksiksizdir, ancak sonuçları görebilmek için notebook'u kendi ortamınızda baştan çalıştırmanız gerekmektedir. Eğitim sürecinin donanımınıza bağlı olarak zaman alabileceğini göz önünde bulundurunuz.
+Kodların tamamı eksiksizdir, ancak sonuçları görebilmek için notebook'u kendi ortamınızda baştan çalıştırmanız gerekmektedir. Eğitim sürecinin donanımınıza bağlı olarak zaman alabileceğini göz önünde bulundurunuz.Eğer ki private leaderboardda ilk 10 sıra içerisinde yer alırsak kodlarımızı çıktılarıyla beraber tekrardan sisteme yükleyeceğiz.
