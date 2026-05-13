@@ -14,7 +14,6 @@ Yarışma verisinden en iyi performansı elde edebilmek için kapsamlı bir veri
 
 - train.csv: Modellerin eğitildiği orijinal eğitim veri seti.
 - test_x.csv: Model performansını ölçmek ve nihai tahminleri oluşturmak için kullanılan test veri seti.
-- train_processed.csv / test_processed.csv: Veri ön işleme ve özellik mühendisliği adımlarından geçmiş, doğrudan model eğitimine hazır hale getirilmiş veriler.
 - Kod Dosyaları (Notebook'lar): Bahsedilen iki farklı teknik yaklaşımı barındıran temel kod dosyalarımız. Her iki dosyada da Keşifçi Veri Analizi (EDA), veri hazırlığı, model eğitimi ve tahmin adımları kendi yöntemlerine uygun olarak ayrı ayrı işlenmiştir.
 
 ## Çalıştırma Hakkında Önemli Not
